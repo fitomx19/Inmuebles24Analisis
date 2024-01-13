@@ -1,0 +1,515 @@
+precio,ubicacion,tamanio,metros_cuadrados,num_baños,num_estacionamientos,num_recamaras,antiguedad,calle,colonia,alcaldia
+35000," Calle Lago Zurich 219,  Ampliación Granada, Miguel Hidalgo",7111,1,1,1,1,1.0, Calle Lago Zurich 219, Ampliación Granada,Miguel Hidalgo
+90000," Bosques de La Reforma,  Bosque de las Lomas, Miguel Hidalgo",39943,399,5,3,3,4.0, Bosques de La Reforma, Bosque de las Lomas,Miguel Hidalgo
+30014," El Yaqui ,  El Yaqui, Cuajimalpa de Morelos",10622,106,2,2,2,2.0, El Yaqui , El Yaqui,Cuajimalpa de Morelos
+21500," José María Rico,  Del Valle Sur, Benito Juárez",9022,90,2,2,2,2.0, José María Rico, Del Valle Sur,Benito Juárez
+25000," Granjas Palo Alto ,  Granjas Palo Alto, Cuajimalpa de Morelos",12023,120,2,3,3,2.0, Granjas Palo Alto , Granjas Palo Alto,Cuajimalpa de Morelos
+25014," Granjas Palo Alto ,  Granjas Palo Alto, Cuajimalpa de Morelos",12023,120,2,3,3,2.0, Granjas Palo Alto , Granjas Palo Alto,Cuajimalpa de Morelos
+38000," lago zurich 245,  Ampliación Granada, Miguel Hidalgo",11522,115,2,2,2,2.0, lago zurich 245, Ampliación Granada,Miguel Hidalgo
+10000," Mar Mediterráneo,  Popotla, Miguel Hidalgo",4521,45,1,1,1,2.0, Mar Mediterráneo, Popotla,Miguel Hidalgo
+38000," av ejercito nacion 769,  Ampliación Granada, Miguel Hidalgo",11522,115,2,2,2,2.0, av ejercito nacion 769, Ampliación Granada,Miguel Hidalgo
+35000," Carretera México-toluca,  Contadero, Cuajimalpa de Morelos",13532,135,3,2,2,3.0, Carretera México-toluca, Contadero,Cuajimalpa de Morelos
+30500," Sevilla,  Juárez, Cuauhtémoc",9522,95,2,2,2,2.0, Sevilla, Juárez,Cuauhtémoc
+26900," Lope de Vega,  Polanco, Miguel Hidalgo",13021,130,2,1,1,2.0, Lope de Vega, Polanco,Miguel Hidalgo
+25000," Alpes,  Lomas de Chapultepec, Miguel Hidalgo",7011,70,1,1,1,1.0, Alpes, Lomas de Chapultepec,Miguel Hidalgo
+20000," Calle Avenida dos,  San Pedro de los Pinos, Benito Juárez",8922,89,2,2,2,2.0, Calle Avenida dos, San Pedro de los Pinos,Benito Juárez
+14000," Camelia,  Buenavista, Cuauhtémoc",6221,62,2,1,1,2.0, Camelia, Buenavista,Cuauhtémoc
+29000," Lago Zurich 243,  Ampliación Granada, Miguel Hidalgo",9022,2,2,2,2,7.0, Lago Zurich 243, Ampliación Granada,Miguel Hidalgo
+60000," Colima,  Roma Norte, Cuauhtémoc",14222,142,3,2,2,2.0, Colima, Roma Norte,Cuauhtémoc
+12500," Poniente 122,  Coltongo, Azcapotzalco",6821,68,2,1,1,2.0, Poniente 122, Coltongo,Azcapotzalco
+49000," Chicontepec 57,  Hipódromo Condesa, Cuauhtémoc",9822,2,2,2,2,4.0, Chicontepec 57, Hipódromo Condesa,Cuauhtémoc
+18000," Eje 3 Norte Camarones,  San Bernabé, Azcapotzalco",7621,76,2,1,1,2.0, Eje 3 Norte Camarones, San Bernabé,Azcapotzalco
+30000," Calle Carlos Finlay,  Cuauhtémoc, Cuauhtémoc",13311,133,1,1,1,1.0, Calle Carlos Finlay, Cuauhtémoc,Cuauhtémoc
+31365," Mezquital,  Peralvillo, Cuauhtémoc",6021,60,1,1,1,2.0, Mezquital, Peralvillo,Cuauhtémoc
+71200," Avenida Moliere,  Polanco, Miguel Hidalgo",25432,254,4,2,2,3.0, Avenida Moliere, Polanco,Miguel Hidalgo
+10000," Morelos,  Ex Hacienda Coapa, Tlalpan",5121,51,1,1,1,2.0, Morelos, Ex Hacienda Coapa,Tlalpan
+15000," Antonio Van Dick,  Santa María Nonoalco, Benito Juárez",6521,65,2,1,1,2.0, Antonio Van Dick, Santa María Nonoalco,Benito Juárez
+45000," CERRADA DE FERROCARRIL DE CUERNAVACA 779,  Polanco, Miguel Hidalgo",11522,115,2,2,2,2.0, CERRADA DE FERROCARRIL DE CUERNAVACA 779, Polanco,Miguel Hidalgo
+32000," Benjamin Franklin  hipodromo condesa cuauhtémoc,  Hipódromo Condesa, Cuauhtémoc",9231,92,2,1,1,3.0, Benjamin Franklin  hipodromo condesa cuauhtémoc, Hipódromo Condesa,Cuauhtémoc
+12000," H.congreso de La Unión,  Bondojito, Gustavo A. Madero",5621,56,2,1,1,2.0, H.congreso de La Unión, Bondojito,Gustavo A. Madero
+26300," Coahuila,  Roma Norte, Cuauhtémoc",9531,95,2,1,1,3.0, Coahuila, Roma Norte,Cuauhtémoc
+58000," Chicontepec 57,  Hipódromo Condesa, Cuauhtémoc",11622,2,2,2,2,4.0, Chicontepec 57, Hipódromo Condesa,Cuauhtémoc
+60000," LAGO ZURICH 219,  Polanco, Miguel Hidalgo",11822,118,3,2,2,2.0, LAGO ZURICH 219, Polanco,Miguel Hidalgo
+45000," LAGO ZURICH 245,  Ampliación Granada, Miguel Hidalgo",12032,120,2,2,2,3.0, LAGO ZURICH 245, Ampliación Granada,Miguel Hidalgo
+17000," San Antonio Abad 58,  Tránsito, Cuauhtémoc",5721,57,1,1,1,2.0, San Antonio Abad 58, Tránsito,Cuauhtémoc
+34500," Juan Racine,  Polanco, Miguel Hidalgo",18032,180,2,2,2,3.0, Juan Racine, Polanco,Miguel Hidalgo
+14200000," Av Paseo de la Reforma 2693,  Ampliación Granada, Miguel Hidalgo",29434,3,4,3,3,1.0, Av Paseo de la Reforma 2693, Ampliación Granada,Miguel Hidalgo
+19000," Carretera México-toluca,  El Yaqui, Cuajimalpa de Morelos",6211,62,1,1,1,1.0, Carretera México-toluca, El Yaqui,Cuajimalpa de Morelos
+27017," Calle Sierra Minuira ,  Reforma Social, Miguel Hidalgo",12022,120,2,2,2,2.0, Calle Sierra Minuira , Reforma Social,Miguel Hidalgo
+27700," Berlín,  Juárez, Cuauhtémoc",12721,127,2,1,1,2.0, Berlín, Juárez,Cuauhtémoc
+9000," Avenida Tetiz,  Pedregal de San Nicolás, Tlalpan",8521,85,1,1,1,2.0, Avenida Tetiz, Pedregal de San Nicolás,Tlalpan
+28000," Córdoba,  Roma Norte, Cuauhtémoc",7921,79,1,1,1,2.0, Córdoba, Roma Norte,Cuauhtémoc
+46500," Alfonso Reyes,  Hipódromo Condesa, Cuauhtémoc",7021,70,2,1,1,2.0, Alfonso Reyes, Hipódromo Condesa,Cuauhtémoc
+27000," Renta Departamento High Park Santa FE,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",7012,70,2,2,2,1.0, Renta Departamento High Park Santa FE, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+18500," El Greco, Nonoalco, Benito Juárez, Ciudad de México, CDMX,  Santa María Nonoalco, Benito Juárez",6321,2,1,2,2,, El Greco,Nonoalco,Benito Juárez
+39999,"  Calle Carlos Finlay,  Juárez, Cuauhtémoc",12821,2,1,2,2,1.0,  Calle Carlos Finlay, Juárez,Cuauhtémoc
+30000," Renacimiento ,  Colonia Renacimiento, Cuauhtémoc",13311,133,1,1,1,1.0, Renacimiento , Colonia Renacimiento,Cuauhtémoc
+15000," Francisco Del Paso Y Troncoso,  Granjas México, Iztacalco",6322,63,2,2,2,2.0, Francisco Del Paso Y Troncoso, Granjas México,Iztacalco
+45000," LAGO ZURICH 96,  Ampliación Granada, Miguel Hidalgo",10022,100,2,2,2,2.0, LAGO ZURICH 96, Ampliación Granada,Miguel Hidalgo
+45017," Calle Chicontepec ,  Hipódromo Condesa, Cuauhtémoc",8522,85,2,2,2,2.0, Calle Chicontepec , Hipódromo Condesa,Cuauhtémoc
+44999," Calle Chicontepec,  Hipódromo Condesa, Cuauhtémoc",8522,2,2,2,2,2.0, Calle Chicontepec, Hipódromo Condesa,Cuauhtémoc
+29000," Calzada San Simon,  San Simón Ticumac, Benito Juárez",6221,62,2,1,1,2.0, Calzada San Simon, San Simón Ticumac,Benito Juárez
+55000," Lago Zurich 272,  Ampliación Granada, Miguel Hidalgo",10522,2,2,2,2,1.0, Lago Zurich 272, Ampliación Granada,Miguel Hidalgo
+12000," Cda. Coahuila,  Cuajimalpa, Cuajimalpa de Morelos",9822,98,2,2,2,2.0, Cda. Coahuila, Cuajimalpa,Cuajimalpa de Morelos
+32000," LAGO ZURICH 219,  Ampliación Granada, Miguel Hidalgo",7011,70,1,1,1,1.0, LAGO ZURICH 219, Ampliación Granada,Miguel Hidalgo
+18000," Avenida Cuauhtémoc,  Roma Sur, Cuauhtémoc",7521,75,2,1,1,2.0, Avenida Cuauhtémoc, Roma Sur,Cuauhtémoc
+34500," Juan Racine,  Polanco, Miguel Hidalgo",18032,180,2,2,2,3.0, Juan Racine, Polanco,Miguel Hidalgo
+24000," Av. Popocatépetl 164,  Portales Norte, Benito Juárez",7822,2,2,2,2,, Av. Popocatépetl 164, Portales Norte,Benito Juárez
+24000," Blvd. Manuel Avila Camacho 611,  Periodista, Miguel Hidalgo",5511,1,1,1,1,, Blvd. Manuel Avila Camacho 611, Periodista,Miguel Hidalgo
+61290,"  Av. Homero 1433,Polanco, Polanco II Secc, Miguel Hidalgo,  Polanco II Sección, Polanco",13521,135,2,1,1,2.0,"  Av. Homero 1433,Polanco",Polanco II Secc,Miguel Hidalgo
+10000," Gorostiza,  Morelos, Cuauhtémoc",5421,54,1,1,1,2.0, Gorostiza, Morelos,Cuauhtémoc
+26000," Londres,  Juárez, Cuauhtémoc",9021,90,2,1,1,2.0, Londres, Juárez,Cuauhtémoc
+65000," Rio Poo 40,  Cuauhtémoc, Cuauhtémoc",17632,2,2,3,3,, Rio Poo 40, Cuauhtémoc,Cuauhtémoc
+15500," Avenida Arteaga Y Salazar,  Contadero, Cuajimalpa de Morelos",7811,78,1,1,1,1.0, Avenida Arteaga Y Salazar, Contadero,Cuajimalpa de Morelos
+30000," José María Olloqui,  Del Valle Sur, Benito Juárez",13032,130,3,2,2,3.0, José María Olloqui, Del Valle Sur,Benito Juárez
+10000," Morelos,  Ex Hacienda Coapa, Tlalpan",5121,51,1,1,1,2.0, Morelos, Ex Hacienda Coapa,Tlalpan
+21736," Carretera México-toluca,  El Yaqui, Cuajimalpa de Morelos",12424,124,2,4,4,2.0, Carretera México-toluca, El Yaqui,Cuajimalpa de Morelos
+9400," Francisco Javier Clavijero,  Esperanza, Cuauhtémoc",4821,48,1,1,1,2.0, Francisco Javier Clavijero, Esperanza,Cuauhtémoc
+18300," Río Ussuri,  Cuauhtémoc, Cuauhtémoc",8221,82,2,1,1,2.0, Río Ussuri, Cuauhtémoc,Cuauhtémoc
+7500," Peluqueros,  Morelos, Venustiano Carranza",5521,55,1,1,1,2.0, Peluqueros, Morelos,Venustiano Carranza
+32000," Arkansas 48 Nápoles Benito Juárez 03810 Ciudad de México Cdmx México,  Nápoles, Benito Juárez",16031,160,3,1,1,3.0, Arkansas 48 Nápoles Benito Juárez 03810 Ciudad de México Cdmx México, Nápoles,Benito Juárez
+12500," Calle Juárez,  San Álvaro, Azcapotzalco",4621,46,1,1,1,2.0, Calle Juárez, San Álvaro,Azcapotzalco
+95000," Renta Pent House Lomas DE Vista Hermosa,  Lomas de Vista Hermosa, Cuajimalpa de Morelos",34046,340,4,6,6,4.0, Renta Pent House Lomas DE Vista Hermosa, Lomas de Vista Hermosa,Cuajimalpa de Morelos
+8500," Calzada Vallejo,  Santa Rosa, Gustavo A. Madero",4821,48,1,1,1,2.0, Calzada Vallejo, Santa Rosa,Gustavo A. Madero
+87000," Lago Zurich 245,  Ampliación Granada, Miguel Hidalgo",30023,300,2,3,3,2.0, Lago Zurich 245, Ampliación Granada,Miguel Hidalgo
+22809," Carretera México-toluca,  El Yaqui, Cuajimalpa de Morelos",10822,108,2,2,2,2.0, Carretera México-toluca, El Yaqui,Cuajimalpa de Morelos
+120000," Presidente Masaryk 300,  Polanco, Miguel Hidalgo",30032,300,3,2,2,3.0, Presidente Masaryk 300, Polanco,Miguel Hidalgo
+12000," Cda. Coahuila,  Cuajimalpa, Cuajimalpa de Morelos",9822,98,2,2,2,2.0, Cda. Coahuila, Cuajimalpa,Cuajimalpa de Morelos
+23000," San Alberto,  Pedregal de Santa Ursula, Coyoacán",17232,172,3,2,2,3.0, San Alberto, Pedregal de Santa Ursula,Coyoacán
+32000," presa falcon 243,  Ampliación Granada, Miguel Hidalgo",8522,85,2,2,2,2.0, presa falcon 243, Ampliación Granada,Miguel Hidalgo
+28000," Avenida Popocatépetl ,  Portales Sur, Benito Juárez",8622,86,2,2,2,2.0, Avenida Popocatépetl , Portales Sur,Benito Juárez
+12000," Sur 143,  Ampliación Gabriel Ramos Millán, Iztacalco",12031,120,2,1,1,3.0, Sur 143, Ampliación Gabriel Ramos Millán,Iztacalco
+60000," LAGO ZURICH 219,  Ampliación Granada, Miguel Hidalgo",11822,118,3,2,2,2.0, LAGO ZURICH 219, Ampliación Granada,Miguel Hidalgo
+40000," Calle 13 de Septiembre,  Escandón I Sección, Miguel Hidalgo",8532,85,3,2,2,3.0, Calle 13 de Septiembre, Escandón I Sección,Miguel Hidalgo
+55000," Presa Falcón 243 A1,  Ampliación Granada, Miguel Hidalgo",10332,2,2,3,3,1.0, Presa Falcón 243 A1, Ampliación Granada,Miguel Hidalgo
+12000," CLAVEL,  La Candelaria, Coyoacán",5821,58,1,1,1,2.0, CLAVEL, La Candelaria,Coyoacán
+22000," lago zurich 243,  Ampliación Granada, Miguel Hidalgo",5511,55,1,1,1,1.0, lago zurich 243, Ampliación Granada,Miguel Hidalgo
+45000," Lago Iseo 532,  Anáhuac I Sección, Miguel Hidalgo",9521,2,1,2,2,2.0, Lago Iseo 532, Anáhuac I Sección,Miguel Hidalgo
+44999," Calle Chicontepec ,  Hipódromo Condesa, Cuauhtémoc",8522,85,1,2,2,2.0, Calle Chicontepec , Hipódromo Condesa,Cuauhtémoc
+40000," Av. Parque de Los Ciervos,  Juárez, Cuauhtémoc",20032,200,4,2,2,3.0, Av. Parque de Los Ciervos, Juárez,Cuauhtémoc
+1150011," Granados,  Granjas Navidad, Cuajimalpa de Morelos",7821,78,2,1,1,2.0, Granados, Granjas Navidad,Cuajimalpa de Morelos
+13000," Avenida Jardín,  Del Gas, Azcapotzalco",8232,82,2,2,2,3.0, Avenida Jardín, Del Gas,Azcapotzalco
+28000," lago andromaco 104,  Ampliación Granada, Miguel Hidalgo",7811,1,1,1,1,1.0, lago andromaco 104, Ampliación Granada,Miguel Hidalgo
+45000," CERRADA DE FERROCARRIL DE CUERNAVACA 779,  Ampliación Granada, Miguel Hidalgo",11522,115,2,2,2,2.0, CERRADA DE FERROCARRIL DE CUERNAVACA 779, Ampliación Granada,Miguel Hidalgo
+45000," LAGO ZURICH 96,  Polanco, Miguel Hidalgo",10022,100,2,2,2,2.0, LAGO ZURICH 96, Polanco,Miguel Hidalgo
+27000," Sierra Muinura 26,  Reforma Social, Miguel Hidalgo",12022,120,2,2,2,2.0, Sierra Muinura 26, Reforma Social,Miguel Hidalgo
+13000," Calle Doctor José María Vértiz,  Letrán Valle, Benito Juárez",6811,68,1,1,1,1.0, Calle Doctor José María Vértiz, Letrán Valle,Benito Juárez
+15000," Avenida México,  Jesús del Monte, Cuajimalpa de Morelos",6521,65,1,1,1,2.0, Avenida México, Jesús del Monte,Cuajimalpa de Morelos
+85000," Lago Zurich 245,  Ampliación Granada, Miguel Hidalgo",18032,180,3,2,2,3.0, Lago Zurich 245, Ampliación Granada,Miguel Hidalgo
+20000," Avenida Pedro Henríquez Ureña,  Rinconada de los Reyes, Coyoacán",12522,125,2,2,2,2.0, Avenida Pedro Henríquez Ureña, Rinconada de los Reyes,Coyoacán
+88000," Avenida Paseo Del Río,  Barrio Oxtopulco Universidad, Coyoacán",48032,480,5,2,2,3.0, Avenida Paseo Del Río, Barrio Oxtopulco Universidad,Coyoacán
+23500," Avenida Popocatepetl 234,  General Pedro María Anaya, Benito Juárez",10732,2,2,3,3,6.0, Avenida Popocatepetl 234, General Pedro María Anaya,Benito Juárez
+6500000," Carretera Mexico Toluca ,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",11533,115,2,3,3,3.0, Carretera Mexico Toluca , Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+72000," Campeche 377,  Hipódromo, Cuauhtémoc",15131,151,3,1,1,3.0, Campeche 377, Hipódromo,Cuauhtémoc
+34000," Av Chapultepec 240,  Roma Norte, Cuauhtémoc",14722,2,2,2,2,2.0, Av Chapultepec 240, Roma Norte,Cuauhtémoc
+16000," Carretera Federal México - Toluca 5860,  Contadero, Cuajimalpa de Morelos",4511,1,1,1,1,1.0, Carretera Federal México - Toluca 5860, Contadero,Cuajimalpa de Morelos
+33000," Enrique Rébsamen,  Del Valle Centro, Benito Juárez",12832,3,2,3,3,, Enrique Rébsamen, Del Valle Centro,Benito Juárez
+120000," Blvd de los Virreyes,  Lomas de Chapultepec, Miguel Hidalgo",30332,3,2,3,3,1.0, Blvd de los Virreyes, Lomas de Chapultepec,Miguel Hidalgo
+15000," Miguel Ángel 23,  Santa María Nonoalco, Benito Juárez",7021,70,2,1,1,2.0, Miguel Ángel 23, Santa María Nonoalco,Benito Juárez
+30000," Río Rhin 41,  Cuauhtémoc, Cuauhtémoc",7421,2,1,2,2,, Río Rhin 41, Cuauhtémoc,Cuauhtémoc
+25500," Anahuac,  Anáhuac I Sección, Miguel Hidalgo",5511,55,1,1,1,1.0, Anahuac, Anáhuac I Sección,Miguel Hidalgo
+73000," Presa Falcon,  Ampliación Granada, Miguel Hidalgo",15232,152,3,2,2,3.0, Presa Falcon, Ampliación Granada,Miguel Hidalgo
+23500," VENTANAS COYOACAN,  Ex-Hacienda Coapa, Coyoacán",10032,100,3,2,2,3.0, VENTANAS COYOACAN, Ex-Hacienda Coapa,Coyoacán
+44800," SECRETARIA DE MARINA 840,  Bosques de las Lomas, Cuajimalpa de Morelos",24023,2,3,2,2,1.0, SECRETARIA DE MARINA 840, Bosques de las Lomas,Cuajimalpa de Morelos
+30000," Castillo de Chapultepec Lomas de Reforma Miguel Hidalgo,  Lomas de Reforma, Miguel Hidalgo",13431,134,2,1,1,3.0, Castillo de Chapultepec Lomas de Reforma Miguel Hidalgo, Lomas de Reforma,Miguel Hidalgo
+42000," Rio Churubusco 601,  Xoco, Benito Juárez",9222,92,2,2,2,2.0, Rio Churubusco 601, Xoco,Benito Juárez
+51678," Av. Presidente Masaryk ,  Polanco, Miguel Hidalgo",6221,1,1,2,2,7.0, Av. Presidente Masaryk , Polanco,Miguel Hidalgo
+31000," Avenida Tamaulipas,  Condesa, Cuauhtémoc",19031,190,2,1,1,3.0, Avenida Tamaulipas, Condesa,Cuauhtémoc
+55000," Lago Zurich 272,  Ampliación Granada, Miguel Hidalgo",10522,105,2,2,2,2.0, Lago Zurich 272, Ampliación Granada,Miguel Hidalgo
+39000," Cozumel 39,  Roma Norte, Cuauhtémoc",14522,3,2,2,2,7.0, Cozumel 39, Roma Norte,Cuauhtémoc
+55000," Lamartine,  Polanco, Miguel Hidalgo",13522,2,2,2,2,6.0, Lamartine, Polanco,Miguel Hidalgo
+21000," C. Dr. José María Vértiz,  Vertiz Narvarte, Benito Juárez",7622,2,2,2,2,10.0, C. Dr. José María Vértiz, Vertiz Narvarte,Benito Juárez
+33000," Cda De Ferrocarril De Cuernavaca 779,  Ampliación Granada, Miguel Hidalgo",7511,75,1,1,1,1.0, Cda De Ferrocarril De Cuernavaca 779, Ampliación Granada,Miguel Hidalgo
+72000," Av. Ejército Nacional 769,  Polanco, Miguel Hidalgo",17032,170,3,2,2,3.0, Av. Ejército Nacional 769, Polanco,Miguel Hidalgo
+27000," Río Tiber 56,  Cuauhtémoc, Cuauhtémoc",9021,90,2,1,1,2.0, Río Tiber 56, Cuauhtémoc,Cuauhtémoc
+16000," HUIZACHES # ,  Ex Hacienda San Juan de Dios, Tlalpan",9322,2,2,2,2,14.0, HUIZACHES # , Ex Hacienda San Juan de Dios,Tlalpan
+40000," Av. Ejercito Nacional Mexicano,  Polanco, Miguel Hidalgo",11512,2,2,1,1,1.0, Av. Ejercito Nacional Mexicano, Polanco,Miguel Hidalgo
+13500," Zotitla ,  Abdias Garcia Soto, Cuajimalpa de Morelos",5512,1,2,1,1,1.0, Zotitla , Abdias Garcia Soto,Cuajimalpa de Morelos
+85000," Bosques de la reforma 1592,  Bosques de las Lomas, Cuajimalpa de Morelos",43033,3,3,3,3,1.0, Bosques de la reforma 1592, Bosques de las Lomas,Cuajimalpa de Morelos
+65000," Séneca 510,  Polanco, Miguel Hidalgo",18531,185,2,1,1,3.0, Séneca 510, Polanco,Miguel Hidalgo
+45000," THIERS,  Anzures, Miguel Hidalgo",13022,2,2,2,2,1.0, THIERS, Anzures,Miguel Hidalgo
+27000," Calle Río Tiber 100,  Cuauhtémoc, Cuauhtémoc",8621,86,2,1,1,2.0, Calle Río Tiber 100, Cuauhtémoc,Cuauhtémoc
+16500," Floresta ,  Recreo, Azcapotzalco",12542,125,3,2,2,4.0, Floresta , Recreo,Azcapotzalco
+36000," Miguel de Cervantes Saavedra 388,  Irrigación, Miguel Hidalgo",11022,110,2,2,2,2.0, Miguel de Cervantes Saavedra 388, Irrigación,Miguel Hidalgo
+59000," Juan de la barrera,  Condesa, Cuauhtémoc",10021,2,1,2,2,1.0, Juan de la barrera, Condesa,Cuauhtémoc
+43000," Life Condesa,  Hipódromo Condesa, Cuauhtémoc",12822,128,2,2,2,2.0, Life Condesa, Hipódromo Condesa,Cuauhtémoc
+25500," chicontepec 5,  Hipódromo Condesa, Cuauhtémoc",11531,115,2,1,1,3.0, chicontepec 5, Hipódromo Condesa,Cuauhtémoc
+24000," puerto méxico,  Roma Sur, Cuauhtémoc",12532,125,3,2,2,3.0, puerto méxico, Roma Sur,Cuauhtémoc
+26500," Cádiz  101,  Insurgentes Mixcoac, Benito Juárez",14631,146,2,1,1,3.0, Cádiz  101, Insurgentes Mixcoac,Benito Juárez
+51000," Chicontepec  57,  Hipódromo Condesa, Cuauhtémoc",9522,95,2,2,2,2.0, Chicontepec  57, Hipódromo Condesa,Cuauhtémoc
+25000," Av. Col. Del Valle 413,  Del Valle Centro, Benito Juárez",9331,93,2,1,1,3.0, Av. Col. Del Valle 413, Del Valle Centro,Benito Juárez
+6750000," Carretera mexico Toluca 5804,  Contadero, Cuajimalpa de Morelos",12522,125,2,2,2,2.0, Carretera mexico Toluca 5804, Contadero,Cuajimalpa de Morelos
+36000," Paseo de Tamarindos  ,  Bosques de las Lomas, Cuajimalpa de Morelos",22033,220,4,3,3,3.0, Paseo de Tamarindos  , Bosques de las Lomas,Cuajimalpa de Morelos
+62000," CARRETERA MEXICO TOLUCA # - ,  Bosques de las Lomas, Cuajimalpa de Morelos",23634,4,4,3,3,, CARRETERA MEXICO TOLUCA # - , Bosques de las Lomas,Cuajimalpa de Morelos
+35000," av tecamachalco ,  Reforma Social, Miguel Hidalgo",11012,1,2,1,1,1.0, av tecamachalco , Reforma Social,Miguel Hidalgo
+26000," Rio Tíber 56,  Cuauhtémoc, Cuauhtémoc",9021,90,2,1,1,2.0, Rio Tíber 56, Cuauhtémoc,Cuauhtémoc
+9800000," Antonio Dovali Jaime 115,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",19832,3,2,3,3,12.0, Antonio Dovali Jaime 115, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+27000," Sinaloa,  Roma Norte, Cuauhtémoc",5511,55,1,1,1,1.0, Sinaloa, Roma Norte,Cuauhtémoc
+46000," Río Churubusco 601,  Xoco, Benito Juárez",12522,125,2,2,2,2.0, Río Churubusco 601, Xoco,Benito Juárez
+110000," Avenida Santa Fe 546,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",27534,4,4,3,3,1.0, Avenida Santa Fe 546, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+32500," Chicontepec s/n,  Condesa, Cuauhtémoc",8022,80,2,2,2,2.0, Chicontepec s/n, Condesa,Cuauhtémoc
+5769139," Carretera Mexico-Toluca 5228,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",7011,70,1,1,1,1.0, Carretera Mexico-Toluca 5228, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+24000," Sierra Gorda 37,  Lomas de Chapultepec, Miguel Hidalgo",13022,130,2,2,2,2.0, Sierra Gorda 37, Lomas de Chapultepec,Miguel Hidalgo
+18000," PORTALES ,  Portales Norte, Benito Juárez",9032,2,2,3,3,10.0, PORTALES , Portales Norte,Benito Juárez
+24000," Corina 111,  Del Carmen, Coyoacán",12031,120,2,1,1,3.0, Corina 111, Del Carmen,Coyoacán
+38000," Carretera Mexico Toluca ,  Cooperativa Palo Alto, Cuajimalpa de Morelos",13833,3,3,3,3,1.0, Carretera Mexico Toluca , Cooperativa Palo Alto,Cuajimalpa de Morelos
+17000," AVENIDA RIO MIXCOAC  INSURGENTES MIXCOAC ,  Insurgentes Mixcoac, Benito Juárez",6912,69,1,2,2,1.0, AVENIDA RIO MIXCOAC  INSURGENTES MIXCOAC , Insurgentes Mixcoac,Benito Juárez
+4200016," Lago Zurich ,  Ampliación Granada, Miguel Hidalgo",13923,139,2,3,3,2.0, Lago Zurich , Ampliación Granada,Miguel Hidalgo
+37000," Retorno de Julieta 11-,  Lomas de Bezares, Miguel Hidalgo",25633,256,3,3,3,3.0, Retorno de Julieta 11-, Lomas de Bezares,Miguel Hidalgo
+18000," AV. CUITLAHUAC 3405,  Nueva Santa Maria, Azcapotzalco",9531,95,2,1,1,3.0, AV. CUITLAHUAC 3405, Nueva Santa Maria,Azcapotzalco
+32000," vaco de quiroga ,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",14322,2,2,2,2,1.0, vaco de quiroga , Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+24600," Ciudad de Los Deportes ,  Ciudad de los Deportes, Benito Juárez",8721,87,2,1,1,2.0, Ciudad de Los Deportes , Ciudad de los Deportes,Benito Juárez
+16500," Calle grandados 14,  Cuajimalpa, Cuajimalpa de Morelos",7021,70,2,1,1,2.0, Calle grandados 14, Cuajimalpa,Cuajimalpa de Morelos
+33000," Calz. Gral. Mariano Escobedo 300,  Anáhuac I Sección, Miguel Hidalgo",7511,75,1,1,1,1.0, Calz. Gral. Mariano Escobedo 300, Anáhuac I Sección,Miguel Hidalgo
+35000," Av Popocatepetl ,  Santa Cruz Atoyac, Benito Juárez",11532,2,2,3,3,1.0, Av Popocatepetl , Santa Cruz Atoyac,Benito Juárez
+43000," LAGO ISEO,  Anáhuac I Sección, Miguel Hidalgo",12032,120,2,2,2,3.0, LAGO ISEO, Anáhuac I Sección,Miguel Hidalgo
+26500," lago alberto 300,  Ampliación Granada, Miguel Hidalgo",6011,60,1,1,1,1.0, lago alberto 300, Ampliación Granada,Miguel Hidalgo
+25000000," Tres Picos,  Polanco, Miguel Hidalgo",24232,3,2,3,3,8.0, Tres Picos, Polanco,Miguel Hidalgo
+11500," RIO SAN JOAQUIN,  Lomas de Sotelo, Miguel Hidalgo",5121,1,1,2,2,5.0, RIO SAN JOAQUIN, Lomas de Sotelo,Miguel Hidalgo
+27000," ejercito nacional 453 ,  Granada, Miguel Hidalgo",6411,64,1,1,1,1.0, ejercito nacional 453 , Granada,Miguel Hidalgo
+55000," LAGO ZURICH ,  Ampliación Granada, Miguel Hidalgo",9032,2,2,3,3,12.0, LAGO ZURICH , Ampliación Granada,Miguel Hidalgo
+30500," Departamento en Renta en Ampliación Granada,  Ampliación Granada, Miguel Hidalgo",7022,70,2,2,2,2.0, Departamento en Renta en Ampliación Granada, Ampliación Granada,Miguel Hidalgo
+18200," zempoala 9,  Vertiz Narvarte, Benito Juárez",7921,2,1,2,2,12.0, zempoala 9, Vertiz Narvarte,Benito Juárez
+32000,"  Lago Alberto ,  Anáhuac II Sección, Miguel Hidalgo",7522,2,2,2,2,8.0,  Lago Alberto , Anáhuac II Sección,Miguel Hidalgo
+28700," Petén,  Piedad Narvarte, Benito Juárez",300021,3000,1,1,1,2.0, Petén, Piedad Narvarte,Benito Juárez
+21000," La Morena 862,  Narvarte Poniente, Benito Juárez",9422,94,2,2,2,2.0, La Morena 862, Narvarte Poniente,Benito Juárez
+32000," Edgar Allan Poe ,  Polanco, Miguel Hidalgo",7021,70,2,1,1,2.0, Edgar Allan Poe , Polanco,Miguel Hidalgo
+26000," Nueva York 290,  Nápoles, Benito Juárez",6411,64,1,1,1,1.0, Nueva York 290, Nápoles,Benito Juárez
+27000," Sierra Minuira 26,  Reforma Social, Miguel Hidalgo",12022,120,2,2,2,2.0, Sierra Minuira 26, Reforma Social,Miguel Hidalgo
+1495000," Sierra Gorda,  Lomas de Chapultepec, Miguel Hidalgo",35234,3,4,3,3,1.0, Sierra Gorda, Lomas de Chapultepec,Miguel Hidalgo
+28000," Av. Tecamachalco,  Reforma Social, Miguel Hidalgo",10011,100,2,1,1,1.0, Av. Tecamachalco, Reforma Social,Miguel Hidalgo
+17500," Pacifico 195,  Pueblo de los Reyes, Coyoacán",10032,3,2,3,3,30.0, Pacifico 195, Pueblo de los Reyes,Coyoacán
+120000," Av. Paseo de la Reforma,  Cuauhtémoc, Cuauhtémoc",45934,4,4,3,3,1.0, Av. Paseo de la Reforma, Cuauhtémoc,Cuauhtémoc
+75000," Eugenio Sue ,  Polanco, Miguel Hidalgo",23032,230,3,2,2,3.0, Eugenio Sue , Polanco,Miguel Hidalgo
+28700," Petén,  Piedad Narvarte, Benito Juárez",300021,3000,1,1,1,2.0, Petén, Piedad Narvarte,Benito Juárez
+25000," Avenida Colonia del Valle 523,  Del Valle Centro, Benito Juárez",11031,110,2,1,1,3.0, Avenida Colonia del Valle 523, Del Valle Centro,Benito Juárez
+37000," Avenida Sonora #180,  Hipódromo, Cuauhtémoc",10021,2,1,2,2,1.0, Avenida Sonora #180, Hipódromo,Cuauhtémoc
+24000," Pilares 326,  Del Valle Centro, Benito Juárez",9422,94,2,2,2,2.0, Pilares 326, Del Valle Centro,Benito Juárez
+24500," Lafragua  13,  Tabacalera, Cuauhtémoc",6511,1,1,1,1,, Lafragua  13, Tabacalera,Cuauhtémoc
+14000," RESIDENCIAL IZAMAL ,  Cancún, Benito Juárez",9032,2,2,3,3,, RESIDENCIAL IZAMAL , Cancún,Benito Juárez
+27000," Félix Parra,  San José Insurgentes, Benito Juárez",13512,1,2,1,1,1.0, Félix Parra, San José Insurgentes,Benito Juárez
+19900," Av. Santa Fe 498,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",5011,50,1,1,1,1.0, Av. Santa Fe 498, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+36000," Lago Nauchatel,  Polanco, Miguel Hidalgo",11232,112,2,2,2,3.0, Lago Nauchatel, Polanco,Miguel Hidalgo
+200000," Plinio ,  Polanco, Miguel Hidalgo",25032,3,2,3,3,1.0, Plinio , Polanco,Miguel Hidalgo
+13100," Poniente 122,  Santa Cruz de las Salinas, Azcapotzalco",5821,58,2,1,1,2.0, Poniente 122, Santa Cruz de las Salinas,Azcapotzalco
+100000," Edgar Allan Poe ,  Polanco, Miguel Hidalgo",24433,3,3,3,3,1.0, Edgar Allan Poe , Polanco,Miguel Hidalgo
+56000," Heráclito,  Polanco, Miguel Hidalgo",24432,244,2,2,2,3.0, Heráclito, Polanco,Miguel Hidalgo
+167000," Av. de los Poetas 100,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",47044,4,4,4,4,1.0, Av. de los Poetas 100, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+9000," LOMAS,  Lomas de Chapultepec, Miguel Hidalgo",52033,4,3,3,3,1.0, LOMAS, Lomas de Chapultepec,Miguel Hidalgo
+48000," av santa fe ,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",19033,3,3,3,3,1.0, av santa fe , Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+58000," Arquimides,  Polanco, Miguel Hidalgo",15522,2,2,2,2,9.0, Arquimides, Polanco,Miguel Hidalgo
+7150000," Av Carlos Lazo # ,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",13922,2,2,2,2,1.0, Av Carlos Lazo # , Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+16500," Granados 14 Cuajimalpa,  Cuajimalpa, Cuajimalpa de Morelos",7021,70,2,1,1,2.0, Granados 14 Cuajimalpa, Cuajimalpa,Cuajimalpa de Morelos
+48000," Carretera México Toluca 1535,  Cooperativa Palo Alto, Cuajimalpa de Morelos",20533,3,3,3,3,1.0, Carretera México Toluca 1535, Cooperativa Palo Alto,Cuajimalpa de Morelos
+100000," Ciceron ,  Polanco, Miguel Hidalgo",23032,3,2,3,3,5.0, Ciceron , Polanco,Miguel Hidalgo
+23500," Lago filt 7 ,  Granada, Miguel Hidalgo",6111,61,1,1,1,1.0, Lago filt 7 , Granada,Miguel Hidalgo
+37000," Avenida Carlos Fernández Graef 300,  Contadero, Cuajimalpa de Morelos",13432,134,2,2,2,3.0, Avenida Carlos Fernández Graef 300, Contadero,Cuajimalpa de Morelos
+47000," Av. Cobalto 90, Los Framboyanes, Tlalpan, 14150 Ciudad de México, Cdmx,  Lomas del Pedregal Framboyanes, Tlalpan",18023,180,3,3,3,2.0, Av. Cobalto 90,Los Framboyanes,Tlalpan
+11100," TINUM ,  Pedregal de San Nicolás, Tlalpan",9031,2,1,3,3,4.0, TINUM , Pedregal de San Nicolás,Tlalpan
+110000," sierra chalchihui ,  Lomas de Chapultepec, Miguel Hidalgo",39032,3,2,3,3,2.0, sierra chalchihui , Lomas de Chapultepec,Miguel Hidalgo
+11000," Av del sol,  Cancún, Benito Juárez",8521,85,1,1,1,2.0, Av del sol, Cancún,Benito Juárez
+11000," Ángel Zimbrón,  Nextengo, Azcapotzalco",7121,71,1,1,1,2.0, Ángel Zimbrón, Nextengo,Azcapotzalco
+55000," Cda De Ferrocarril De Cuernavaca 779,  Ampliación Granada, Miguel Hidalgo",13522,135,2,2,2,2.0, Cda De Ferrocarril De Cuernavaca 779, Ampliación Granada,Miguel Hidalgo
+43000," Carretera México-Toluca,  Lomas de Bezares, Miguel Hidalgo",16532,2,2,3,3,1.0, Carretera México-Toluca, Lomas de Bezares,Miguel Hidalgo
+42000," CUERNAVACA 100,  Condesa, Cuauhtémoc",11021,110,2,1,1,2.0, CUERNAVACA 100, Condesa,Cuauhtémoc
+43000," González De Cossío,  Del Valle Centro, Benito Juárez",17832,178,2,2,2,3.0, González De Cossío, Del Valle Centro,Benito Juárez
+41000," Ejército Nacional 453 Latitud Polanco,  Polanco, Miguel Hidalgo",11532,115,2,2,2,3.0, Ejército Nacional 453 Latitud Polanco, Polanco,Miguel Hidalgo
+37000," Aqua Residencial Av Huayacan,  Cancún, Benito Juárez",24032,1,2,3,3,1.0, Aqua Residencial Av Huayacan, Cancún,Benito Juárez
+25000," Av. Revolución 1030,  San José Insurgentes, Benito Juárez",7022,2,2,2,2,1.0, Av. Revolución 1030, San José Insurgentes,Benito Juárez
+22800," Cordoba 229,  Roma Norte, Cuauhtémoc",6211,62,1,1,1,1.0, Cordoba 229, Roma Norte,Cuauhtémoc
+6700000," Periférico Sur 411,  Fuentes del Pedregal, Tlalpan",13232,132,2,2,2,3.0, Periférico Sur 411, Fuentes del Pedregal,Tlalpan
+55000," lago zurich ,  Granada, Miguel Hidalgo",8422,2,2,2,2,1.0, lago zurich , Granada,Miguel Hidalgo
+37500," Patricio Sanz 222 bis,  Del Valle Norte, Benito Juárez",23041,230,4,1,1,4.0, Patricio Sanz 222 bis, Del Valle Norte,Benito Juárez
+31000," Avenida Tamaulipas,  Condesa, Cuauhtémoc",19031,190,2,1,1,3.0, Avenida Tamaulipas, Condesa,Cuauhtémoc
+22000," Miguel Laurent numero 60,  Del Valle Sur, Benito Juárez",8021,2,1,2,2,3.0, Miguel Laurent numero 60, Del Valle Sur,Benito Juárez
+12500," Carr. México-Toluca 5623,  Cuajimalpa, Cuajimalpa de Morelos",5811,58,1,1,1,1.0, Carr. México-Toluca 5623, Cuajimalpa,Cuajimalpa de Morelos
+110000," PUERTO CANCÚN,  Cancún, Benito Juárez",22332,3,2,3,3,2.0, PUERTO CANCÚN, Cancún,Benito Juárez
+19000," Jose Rosas moreno 97,  San Rafael, Cuauhtémoc",5621,56,1,1,1,2.0, Jose Rosas moreno 97, San Rafael,Cuauhtémoc
+50000," Polanco,  Polanco, Miguel Hidalgo",20031,2,1,3,3,43.0, Polanco, Polanco,Miguel Hidalgo
+10990000," RÍO CHURUBUSCO 601,  Xoco, Benito Juárez",9122,91,2,2,2,2.0, RÍO CHURUBUSCO 601, Xoco,Benito Juárez
+47000," Lago Zurich 273,  Granada, Miguel Hidalgo",14732,147,2,2,2,3.0, Lago Zurich 273, Granada,Miguel Hidalgo
+20500," Carretara México Toluca  ,  Contadero, Cuajimalpa de Morelos",8122,2,2,2,2,4.0, Carretara México Toluca  , Contadero,Cuajimalpa de Morelos
+29000," Agricultura 97,  Escandón II Sección, Miguel Hidalgo",6521,65,1,1,1,2.0, Agricultura 97, Escandón II Sección,Miguel Hidalgo
+23000," ROMERO DE TERREROS 730,  Del Valle Norte, Benito Juárez",10032,100,3,2,2,3.0, ROMERO DE TERREROS 730, Del Valle Norte,Benito Juárez
+29000," Agricultura 97,  Escandón II Sección, Miguel Hidalgo",6521,65,1,1,1,2.0, Agricultura 97, Escandón II Sección,Miguel Hidalgo
+19000," Av. Prolongación Paseo de Reforma  489,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",4811,1,1,1,1,8.0, Av. Prolongación Paseo de Reforma  489, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+25963000," Ruben Dario,  Polanco, Miguel Hidalgo",30032,3,2,3,3,60.0, Ruben Dario, Polanco,Miguel Hidalgo
+40000," tlaxcala 13,  Roma Norte, Cuauhtémoc",16722,167,2,2,2,2.0, tlaxcala 13, Roma Norte,Cuauhtémoc
+50000," Alfonso Reyes 53,  Hipódromo Condesa, Cuauhtémoc",7021,70,2,1,1,2.0, Alfonso Reyes 53, Hipódromo Condesa,Cuauhtémoc
+5200000," Bayoneta,  Bosques de las Lomas, Cuajimalpa de Morelos",16521,2,1,2,2,1.0, Bayoneta, Bosques de las Lomas,Cuajimalpa de Morelos
+13000," Luisa 100,  Nativitas, Benito Juárez",6021,60,2,1,1,2.0, Luisa 100, Nativitas,Benito Juárez
+29500," Sonora ,  Roma Norte, Cuauhtémoc",11022,110,2,2,2,2.0, Sonora , Roma Norte,Cuauhtémoc
+39009," Avenida santa fe,  Cuajimalpa, Cuajimalpa de Morelos",10322,103,2,2,2,2.0, Avenida santa fe, Cuajimalpa,Cuajimalpa de Morelos
+30000," Ampliacion Granada ,  Ampliación Granada, Miguel Hidalgo",6511,65,1,1,1,1.0, Ampliacion Granada , Ampliación Granada,Miguel Hidalgo
+23500," Carretera Mexico-toluca,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",12032,120,2,2,2,3.0, Carretera Mexico-toluca, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+27000," Reforma Social ,  Reforma Social, Miguel Hidalgo",12022,120,2,2,2,2.0, Reforma Social , Reforma Social,Miguel Hidalgo
+45009," Calle Chicontepec ,  Hipódromo Condesa, Cuauhtémoc",8522,85,2,2,2,2.0, Calle Chicontepec , Hipódromo Condesa,Cuauhtémoc
+15500," Manzanastitla ,  Manzanastitla, Cuajimalpa de Morelos",6511,65,1,1,1,1.0, Manzanastitla , Manzanastitla,Cuajimalpa de Morelos
+10500," aldana 11,  Del Gas, Azcapotzalco",5521,55,1,1,1,2.0, aldana 11, Del Gas,Azcapotzalco
+23000," Renta Town House Lomas DE Vista Hermosa,  Lomas de Vista Hermosa, Cuajimalpa de Morelos",14522,145,2,2,2,2.0, Renta Town House Lomas DE Vista Hermosa, Lomas de Vista Hermosa,Cuajimalpa de Morelos
+45017," Calle Chicontepec ,  Hipódromo Condesa, Cuauhtémoc",8422,84,2,2,2,2.0, Calle Chicontepec , Hipódromo Condesa,Cuauhtémoc
+25500," Calle Lago Alberto,  Anáhuac I Sección, Miguel Hidalgo",5511,55,1,1,1,1.0, Calle Lago Alberto, Anáhuac I Sección,Miguel Hidalgo
+6900000," Secretaria de Marina,  Bosques de las Lomas, Cuajimalpa de Morelos",15022,150,3,2,2,2.0, Secretaria de Marina, Bosques de las Lomas,Cuajimalpa de Morelos
+45000," Calle chicontepec ,  Hipódromo Condesa, Cuauhtémoc",8522,85,2,2,2,2.0, Calle chicontepec , Hipódromo Condesa,Cuauhtémoc
+30014," Cuauhtémoc ,  Colonia Renacimiento, Cuauhtémoc",13311,133,1,1,1,1.0, Cuauhtémoc , Colonia Renacimiento,Cuauhtémoc
+32000," Benjamin Franklin,  Hipódromo Condesa, Cuauhtémoc",9221,2,1,2,2,3.0, Benjamin Franklin, Hipódromo Condesa,Cuauhtémoc
+60000," Lago Zurich 219,  Polanco, Miguel Hidalgo",11822,118,2,2,2,2.0, Lago Zurich 219, Polanco,Miguel Hidalgo
+44000," Bosque de Tabachines 230,  Bosques de las Lomas, Cuajimalpa de Morelos",26434,3,4,3,3,1.0, Bosque de Tabachines 230, Bosques de las Lomas,Cuajimalpa de Morelos
+15500," Avenida Mexico ,  Manzanastitla, Cuajimalpa de Morelos",6511,65,1,1,1,1.0, Avenida Mexico , Manzanastitla,Cuajimalpa de Morelos
+3000000," Blvd. Pdte. Manuel Ávila Camacho 571,  Polanco, Miguel Hidalgo",6011,60,1,1,1,1.0, Blvd. Pdte. Manuel Ávila Camacho 571, Polanco,Miguel Hidalgo
+45000," Hipodromo Condesa ,  Hipódromo Condesa, Cuauhtémoc",8522,85,2,2,2,2.0, Hipodromo Condesa , Hipódromo Condesa,Cuauhtémoc
+5000," Palmas Park,  Lomas de Chapultepec, Miguel Hidalgo",21722,217,2,2,2,2.0, Palmas Park, Lomas de Chapultepec,Miguel Hidalgo
+40000," Renacimiento ,  Colonia Renacimiento, Cuauhtémoc",12921,129,2,1,1,2.0, Renacimiento , Colonia Renacimiento,Cuauhtémoc
+35000," Maimónides,  Polanco, Miguel Hidalgo",13821,2,1,2,2,45.0, Maimónides, Polanco,Miguel Hidalgo
+28000," Rento Departamento Santa Fe. Residencial We,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",10623,106,2,3,3,2.0, Rento Departamento Santa Fe. Residencial We, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+13200," Jose F gutierrez 120,  Ángel Zimbron, Azcapotzalco",6421,64,2,1,1,2.0, Jose F gutierrez 120, Ángel Zimbron,Azcapotzalco
+18500," Carretera Mexico-toluca,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",8522,85,2,2,2,2.0, Carretera Mexico-toluca, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+25000," Granja Paseo de los Tamarindos,  Granjas Palo Alto, Cuajimalpa de Morelos",12023,120,2,3,3,2.0, Granja Paseo de los Tamarindos, Granjas Palo Alto,Cuajimalpa de Morelos
+6000," Departamento Renta Ruben Dario,  Polanco, Miguel Hidalgo",19322,193,2,2,2,2.0, Departamento Renta Ruben Dario, Polanco,Miguel Hidalgo
+25000," Calle Paseo de los Tamarindos 210,  Granjas Palo Alto, Cuajimalpa de Morelos",12023,120,2,3,3,2.0, Calle Paseo de los Tamarindos 210, Granjas Palo Alto,Cuajimalpa de Morelos
+30000," Avenida Río San Joaquin ,  Ampliación Granada, Miguel Hidalgo",6511,65,1,1,1,1.0, Avenida Río San Joaquin , Ampliación Granada,Miguel Hidalgo
+15509,"  Avenida México ,  Manzanastitla, Cuajimalpa de Morelos",6511,65,1,1,1,1.0,  Avenida México , Manzanastitla,Cuajimalpa de Morelos
+13900000," Miguel de Cervantes Saavedra 255,  Granada, Miguel Hidalgo",17032,170,3,2,2,3.0, Miguel de Cervantes Saavedra 255, Granada,Miguel Hidalgo
+7100000," carretera Mexico Toluca  3703,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",15422,154,3,2,2,2.0, carretera Mexico Toluca  3703, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+75000," PASEO DE LOS LAURELES 404,  Bosques de las Lomas, Cuajimalpa de Morelos",43043,4,3,4,4,1.0, PASEO DE LOS LAURELES 404, Bosques de las Lomas,Cuajimalpa de Morelos
+40014," Cuauhtémoc ,  Colonia Renacimiento, Cuauhtémoc",12921,129,2,1,1,2.0, Cuauhtémoc , Colonia Renacimiento,Cuauhtémoc
+39000," Cuajimalpa ,  Cuajimalpa, Cuajimalpa de Morelos",10322,103,2,2,2,2.0, Cuajimalpa , Cuajimalpa,Cuajimalpa de Morelos
+25500," Nuevo Polanco,  Anáhuac I Sección, Miguel Hidalgo",5511,55,1,1,1,1.0, Nuevo Polanco, Anáhuac I Sección,Miguel Hidalgo
+26000," Exhacienda coapa ,  Ex-Hacienda Coapa, Coyoacán",10033,100,2,3,3,3.0, Exhacienda coapa , Ex-Hacienda Coapa,Coyoacán
+25000," Rio Amazonas #82, Renacimiento, Cuauhtémoc,  Cuauhtémoc, Cuauhtémoc",6011,1,1,1,1,, Rio Amazonas #82,Renacimiento,Cuauhtémoc
+13500," CENTRAL TELEFONICA 38,  Ampliación Sinatel, Iztapalapa",8621,86,1,1,1,2.0, CENTRAL TELEFONICA 38, Ampliación Sinatel,Iztapalapa
+55000," Alejandro Dumas 207,  Polanco, Miguel Hidalgo",15022,150,2,2,2,2.0, Alejandro Dumas 207, Polanco,Miguel Hidalgo
+60000," LAGO ZURICH,  Granada, Miguel Hidalgo",13332,133,2,2,2,3.0, LAGO ZURICH, Granada,Miguel Hidalgo
+17900," Pestalozzi 27,  Piedad Narvarte, Benito Juárez",8821,2,1,2,2,2.0, Pestalozzi 27, Piedad Narvarte,Benito Juárez
+19500," C. 7 Ote. 20,  Isidro Fabela, Tlalpan",10022,100,2,2,2,2.0, C. 7 Ote. 20, Isidro Fabela,Tlalpan
+25000," Av. Río Mixcoac 24,  Actipan, Benito Juárez",8722,2,2,2,2,10.0, Av. Río Mixcoac 24, Actipan,Benito Juárez
+19000," AV MEXICO,  Cuajimalpa, Cuajimalpa de Morelos",9022,90,2,2,2,2.0, AV MEXICO, Cuajimalpa,Cuajimalpa de Morelos
+39000," Gabriel Mancera,  Del Valle Centro, Benito Juárez",18622,2,2,2,2,1.0, Gabriel Mancera, Del Valle Centro,Benito Juárez
+24500," Cuauhtémoc,  Cuauhtémoc, Cuauhtémoc",7521,75,2,1,1,2.0, Cuauhtémoc, Cuauhtémoc,Cuauhtémoc
+14000," ARAGON,  Álamos, Benito Juárez",5521,55,1,1,1,2.0, ARAGON, Álamos,Benito Juárez
+24000," alabama 201,  Nápoles, Benito Juárez",6822,68,2,2,2,2.0, alabama 201, Nápoles,Benito Juárez
+42000," AV EJERCITO NACIONAL 769,  Polanco, Miguel Hidalgo",11522,115,2,2,2,2.0, AV EJERCITO NACIONAL 769, Polanco,Miguel Hidalgo
+22000," SAN FRANCISCO ,  Del Valle Centro, Benito Juárez",10822,108,2,2,2,2.0, SAN FRANCISCO , Del Valle Centro,Benito Juárez
+26000," bahia de Santa Bárbara 130,  Verónica Anzures, Miguel Hidalgo",10632,106,2,2,2,3.0, bahia de Santa Bárbara 130, Verónica Anzures,Miguel Hidalgo
+24000," Amores 333,  Del Valle Centro, Benito Juárez",9021,90,2,1,1,2.0, Amores 333, Del Valle Centro,Benito Juárez
+23000," secretaría de Marina,  Lomas del Chamizal, Cuajimalpa de Morelos",6922,2,2,2,2,1.0, secretaría de Marina, Lomas del Chamizal,Cuajimalpa de Morelos
+73000," Ámsterdam,,  Condesa, Cuauhtémoc",20522,205,2,2,2,2.0," Ámsterdam,", Condesa,Cuauhtémoc
+10500000," Vasco de Quiroga 4800,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",17022,2,2,2,2,1.0, Vasco de Quiroga 4800, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+30000," Lago Neuchatel 10,  Ampliación Granada, Miguel Hidalgo",12532,2,2,3,3,18.0, Lago Neuchatel 10, Ampliación Granada,Miguel Hidalgo
+12500," Calle Canela 21 Col. Granjas México,  Granjas México, Iztacalco",5621,56,1,1,1,2.0, Calle Canela 21 Col. Granjas México, Granjas México,Iztacalco
+29000," Avenida Popocatepetl 474,  Xoco, Benito Juárez",11022,110,2,2,2,2.0, Avenida Popocatepetl 474, Xoco,Benito Juárez
+9800000," Julian Adame,  Lomas de Vista Hermosa, Cuajimalpa de Morelos",15732,157,3,2,2,3.0, Julian Adame, Lomas de Vista Hermosa,Cuajimalpa de Morelos
+39500," Juan Racine,  Polanco, Miguel Hidalgo",21031,210,2,1,1,3.0, Juan Racine, Polanco,Miguel Hidalgo
+74000," PRESA FALCON,  Granada, Miguel Hidalgo",15232,152,2,2,2,3.0, PRESA FALCON, Granada,Miguel Hidalgo
+23000," El Mirador 18,  Fuentes de Tepepan, Tlalpan",11822,3,2,2,2,7.0, El Mirador 18, Fuentes de Tepepan,Tlalpan
+700006," Bradley,  Anzures, Miguel Hidalgo",23034,3,4,3,3,1.0, Bradley, Anzures,Miguel Hidalgo
+23000," Bahía Perúla ,  Verónica Anzures, Miguel Hidalgo",8921,3,1,2,2,10.0, Bahía Perúla , Verónica Anzures,Miguel Hidalgo
+35000," Lago Zurich 243,  Ampliación Granada, Miguel Hidalgo",7222,72,2,2,2,2.0, Lago Zurich 243, Ampliación Granada,Miguel Hidalgo
+16000," Unión ,  Escandón II Sección, Miguel Hidalgo",7521,75,2,1,1,2.0, Unión , Escandón II Sección,Miguel Hidalgo
+13500," Calle San Borja 1767,  Independencia, Benito Juárez",6221,1,1,2,2,7.0, Calle San Borja 1767, Independencia,Benito Juárez
+26000," AVE. MÉXICO 359,  Manzanastitla, Cuajimalpa de Morelos",12342,2,2,4,4,5.0, AVE. MÉXICO 359, Manzanastitla,Cuajimalpa de Morelos
+13000," Calzada Legaria ,  Legaria, Miguel Hidalgo",6221,62,1,1,1,2.0, Calzada Legaria , Legaria,Miguel Hidalgo
+16500," FUENTES DEL AMOR,  Fuentes del Pedregal, Tlalpan",10011,1,1,1,1,25.0, FUENTES DEL AMOR, Fuentes del Pedregal,Tlalpan
+220000," Av Moliere 446,  Granada, Miguel Hidalgo",48342,483,5,2,2,4.0, Av Moliere 446, Granada,Miguel Hidalgo
+75000," Departamento Amueblado y Equipado en Neuchatel,  Ampliación Granada, Miguel Hidalgo",14433,144,3,3,3,3.0, Departamento Amueblado y Equipado en Neuchatel, Ampliación Granada,Miguel Hidalgo
+50000," Chicontepec 57, Hipódromo Condesa, Cuauhtémoc, 06170 Ciudad de México, CDMX, Mexico,  Hipódromo Condesa, Cuauhtémoc",7721,77,2,1,1,2.0, Chicontepec 57,Hipódromo Condesa,Cuauhtémoc
+34000," Dakota 95,  Nápoles, Benito Juárez",18732,2,2,3,3,1.0, Dakota 95, Nápoles,Benito Juárez
+33500," General Antonio de León 18,  San Miguel Chapultepec, Miguel Hidalgo",14522,145,2,2,2,2.0, General Antonio de León 18, San Miguel Chapultepec,Miguel Hidalgo
+13500," CALZADA DE GUADALUPE 120,  Jardines Villa Coapa, Tlalpan",7221,2,1,2,2,25.0, CALZADA DE GUADALUPE 120, Jardines Villa Coapa,Tlalpan
+17000," Viaducto Pesidente Miguel Alemán ,  Álamos, Benito Juárez",6521,65,2,1,1,2.0, Viaducto Pesidente Miguel Alemán , Álamos,Benito Juárez
+10790000," Av. Santa Fe 546,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",11222,2,2,2,2,1.0, Av. Santa Fe 546, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+29400," Privada de Tamarindos 29,  Bosques de las Lomas, Cuajimalpa de Morelos",16021,160,1,1,1,2.0, Privada de Tamarindos 29, Bosques de las Lomas,Cuajimalpa de Morelos
+23000," Bartolache 1140 b,  Del Valle Centro, Benito Juárez",9021,90,2,1,1,2.0, Bartolache 1140 b, Del Valle Centro,Benito Juárez
+30000," Sendero Santa Fe,  El Yaqui, Cuajimalpa de Morelos",14432,144,2,2,2,3.0, Sendero Santa Fe, El Yaqui,Cuajimalpa de Morelos
+4500000," BLVD GRAN SUR 5550,  Pedregal de Carrasco, Coyoacán",8522,85,2,2,2,2.0, BLVD GRAN SUR 5550, Pedregal de Carrasco,Coyoacán
+45000," Thiers,  Anzures, Miguel Hidalgo",12523,125,2,3,3,2.0, Thiers, Anzures,Miguel Hidalgo
+130000," Av. de los Poetas,  San Mateo Tlaltenango, Cuajimalpa de Morelos",38046,380,4,6,6,4.0, Av. de los Poetas, San Mateo Tlaltenango,Cuajimalpa de Morelos
+38000," Parques Plaza,  Anáhuac I Sección, Miguel Hidalgo",12022,120,2,2,2,2.0, Parques Plaza, Anáhuac I Sección,Miguel Hidalgo
+29000," Carr. México-Toluca 5500,  Ampliación el Yaqui, Cuajimalpa de Morelos",16432,164,3,2,2,3.0, Carr. México-Toluca 5500, Ampliación el Yaqui,Cuajimalpa de Morelos
+27000," Av Popocatépetl 474,  Xoco, Benito Juárez",10032,100,2,2,2,3.0, Av Popocatépetl 474, Xoco,Benito Juárez
+20000," Lago Alberto 320,  Anáhuac II Sección, Miguel Hidalgo",8011,1,1,1,1,11.0, Lago Alberto 320, Anáhuac II Sección,Miguel Hidalgo
+26000," Rio Tiber 56,  Cuauhtémoc, Cuauhtémoc",9021,90,1,1,1,2.0, Rio Tiber 56, Cuauhtémoc,Cuauhtémoc
+40000," col cuauhtemoc,  Cuauhtémoc, Cuauhtémoc",13521,3,1,2,2,15.0, col cuauhtemoc, Cuauhtémoc,Cuauhtémoc
+26000," Carretera México-Toluca 5900,  Contadero, Cuajimalpa de Morelos",9822,98,2,2,2,2.0, Carretera México-Toluca 5900, Contadero,Cuajimalpa de Morelos
+60000," Lago Neuchatel 55,  Ampliación Granada, Miguel Hidalgo",12032,120,2,2,2,3.0, Lago Neuchatel 55, Ampliación Granada,Miguel Hidalgo
+100000," Ciceron,  Polanco, Miguel Hidalgo",20033,3,3,3,3,1.0, Ciceron, Polanco,Miguel Hidalgo
+15000," Cerrada Antonio noemi ,  Lomas de Memetla, Cuajimalpa de Morelos",11112,1,2,1,1,4.0, Cerrada Antonio noemi , Lomas de Memetla,Cuajimalpa de Morelos
+9000," Oriente 32 3569,  Merced Balbuena, Venustiano Carranza",5021,1,1,2,2,8.0, Oriente 32 3569, Merced Balbuena,Venustiano Carranza
+66000," Platón 453,  Polanco, Miguel Hidalgo",13822,138,2,2,2,2.0, Platón 453, Polanco,Miguel Hidalgo
+110000," Av. de los Poetas 100,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",33033,3,3,3,3,1.0, Av. de los Poetas 100, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+9300000," secretaria de marina,  Lomas del Chamizal, Cuajimalpa de Morelos",15022,150,2,2,2,2.0, secretaria de marina, Lomas del Chamizal,Cuajimalpa de Morelos
+85000," MONTE KAMERUN,  Lomas de Chapultepec, Miguel Hidalgo",24032,240,3,2,2,3.0, MONTE KAMERUN, Lomas de Chapultepec,Miguel Hidalgo
+24990," Rio Mixcoac al 300,  Acacias, Benito Juárez",12632,126,2,2,2,3.0, Rio Mixcoac al 300, Acacias,Benito Juárez
+16580000," HOMERO 510 PH4,  Anáhuac I Sección, Miguel Hidalgo",27922,279,3,2,2,2.0, HOMERO 510 PH4, Anáhuac I Sección,Miguel Hidalgo
+19750," Insurgentes Norte 1346 al 100,  Magdalena de las Salinas, Gustavo A. Madero",11122,111,2,2,2,2.0, Insurgentes Norte 1346 al 100, Magdalena de las Salinas,Gustavo A. Madero
+28000," Goya no. 31 ,  Insurgentes Mixcoac, Benito Juárez",10032,100,2,2,2,3.0, Goya no. 31 , Insurgentes Mixcoac,Benito Juárez
+22000," Mier y Pesado,  Del Valle Norte, Benito Juárez",10522,2,2,2,2,10.0, Mier y Pesado, Del Valle Norte,Benito Juárez
+27000," Anillo Periférico 4603 ,  Parque del Pedregal, Tlalpan",9012,90,1,2,2,1.0, Anillo Periférico 4603 , Parque del Pedregal,Tlalpan
+33500,"  Lago Andromaco,  Ampliación Granada, Miguel Hidalgo",9032,2,2,3,3,11.0,  Lago Andromaco, Ampliación Granada,Miguel Hidalgo
+40000," Allure Condesa,  Roma Norte, Cuauhtémoc",6532,2,2,3,3,6.0, Allure Condesa, Roma Norte,Cuauhtémoc
+11500," MEXICO NUEVO,  México Nuevo, Miguel Hidalgo",5121,1,1,2,2,5.0, MEXICO NUEVO, México Nuevo,Miguel Hidalgo
+35000," Sinaloa 179,  Condesa, Cuauhtémoc",9022,2,2,2,2,10.0, Sinaloa 179, Condesa,Cuauhtémoc
+13000," Plutarco Elias Calles 21,  Granjas México, Iztacalco",6521,1,1,2,2,, Plutarco Elias Calles 21, Granjas México,Iztacalco
+53000," LAGO ZURICH 219,  Ampliación Granada, Miguel Hidalgo",11822,3,2,2,2,5.0, LAGO ZURICH 219, Ampliación Granada,Miguel Hidalgo
+34000," Miguel Cervantes Saavedra 388,  Irrigación, Miguel Hidalgo",10022,100,2,2,2,2.0, Miguel Cervantes Saavedra 388, Irrigación,Miguel Hidalgo
+21000," Avenida Progreso ,  Escandón II Sección, Miguel Hidalgo",10021,1,1,2,2,1.0, Avenida Progreso , Escandón II Sección,Miguel Hidalgo
+20000," Avenida Coyoacán ,  Acacias, Benito Juárez",8922,89,2,2,2,2.0, Avenida Coyoacán , Acacias,Benito Juárez
+88000," Platón ,  Polanco, Miguel Hidalgo",24032,240,3,2,2,3.0, Platón , Polanco,Miguel Hidalgo
+5000000," EXTREMADURA,  Insurgentes Mixcoac, Benito Juárez",12011,120,1,1,1,1.0, EXTREMADURA, Insurgentes Mixcoac,Benito Juárez
+30000," Carlos Juan Finlay_ph1,  Cuauhtémoc, Cuauhtémoc",12811,128,1,1,1,1.0, Carlos Juan Finlay_ph1, Cuauhtémoc,Cuauhtémoc
+30000," La Fragua No. 13 ,  Tabacalera, Cuauhtémoc",6011,60,1,1,1,1.0, La Fragua No. 13 , Tabacalera,Cuauhtémoc
+105000," Bernardo Quintana,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",37034,370,3,4,4,3.0, Bernardo Quintana, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+31500," Prolongación Moliere,  Ampliación Granada, Miguel Hidalgo",8622,86,2,2,2,2.0, Prolongación Moliere, Ampliación Granada,Miguel Hidalgo
+15501," Avenida México ,  Manzanastitla, Cuajimalpa de Morelos",6511,65,1,1,1,1.0, Avenida México , Manzanastitla,Cuajimalpa de Morelos
+8200000," Presa Rodriguez,  Irrigación, Miguel Hidalgo",15031,3,1,3,3,1.0, Presa Rodriguez, Irrigación,Miguel Hidalgo
+17000," Wisconsin 20,  Nápoles, Benito Juárez",6921,2,1,2,2,33.0, Wisconsin 20, Nápoles,Benito Juárez
+400009," Querétaro 132 Roma norte,  Roma Norte, Cuauhtémoc",13412,134,1,2,2,1.0, Querétaro 132 Roma norte, Roma Norte,Cuauhtémoc
+11500," LEGARIA,  Legaria, Miguel Hidalgo",5121,1,1,2,2,5.0, LEGARIA, Legaria,Miguel Hidalgo
+44000," Guanajuato 168, Roma Norte, Cuauhtémoc, Cdmx,,  Roma Norte, Cuauhtémoc",8412,84,2,2,2,1.0, Guanajuato 168,Roma Norte,Cuauhtémoc
+18200," Av Revolución ,  Santa María Nonoalco, Benito Juárez",7821,78,2,1,1,2.0, Av Revolución , Santa María Nonoalco,Benito Juárez
+23000," Boulevard Manuel Ávila Camacho 611,  Periodista, Miguel Hidalgo",9022,90,2,2,2,2.0, Boulevard Manuel Ávila Camacho 611, Periodista,Miguel Hidalgo
+27000," Fresas,  Del Valle Sur, Benito Juárez",10032,2,2,3,3,1.0, Fresas, Del Valle Sur,Benito Juárez
+23000," canova 38,  Insurgentes Mixcoac, Benito Juárez",11331,113,1,1,1,3.0, canova 38, Insurgentes Mixcoac,Benito Juárez
+24000," Av. Universidad ,  Narvarte Poniente, Benito Juárez",11032,110,2,2,2,3.0, Av. Universidad , Narvarte Poniente,Benito Juárez
+40000," SInaloa 179,  Roma Norte, Cuauhtémoc",6521,65,2,1,1,2.0, SInaloa 179, Roma Norte,Cuauhtémoc
+20000," Diagonal San Antonio 830,  Del Valle Norte, Benito Juárez",8022,2,2,2,2,5.0, Diagonal San Antonio 830, Del Valle Norte,Benito Juárez
+15000," Hacienda Escolástica ,  La Providencia, Azcapotzalco",17032,2,2,3,3,19.0, Hacienda Escolástica , La Providencia,Azcapotzalco
+30000," Departamento en Renta Amueblado y Equipado col Del Valle,  Del Valle Centro, Benito Juárez",13032,130,2,2,2,3.0, Departamento en Renta Amueblado y Equipado col Del Valle, Del Valle Centro,Benito Juárez
+68000," Eugenio Sue,  Polanco, Miguel Hidalgo",18021,2,1,2,2,1.0, Eugenio Sue, Polanco,Miguel Hidalgo
+25000," Prolongación Vasco de Quiroga número 4299,  Cuajimalpa, Cuajimalpa de Morelos",11522,2,2,2,2,7.0, Prolongación Vasco de Quiroga número 4299, Cuajimalpa,Cuajimalpa de Morelos
+60000," Goldsmith,  Polanco, Miguel Hidalgo",14822,2,2,2,2,2.0, Goldsmith, Polanco,Miguel Hidalgo
+28000," Blvd. Gransur 5600,  Pedregal de Carrasco, Coyoacán",10022,100,2,2,2,2.0, Blvd. Gransur 5600, Pedregal de Carrasco,Coyoacán
+1750012," Av. Río Mixcoac 300,  Acacias, Benito Juárez",6011,60,1,1,1,1.0, Av. Río Mixcoac 300, Acacias,Benito Juárez
+42000," Hipódromo Condesa,  Hipódromo Condesa, Cuauhtémoc",11822,118,2,2,2,2.0, Hipódromo Condesa, Hipódromo Condesa,Cuauhtémoc
+10500," Calz. Ignacio Zaragoza 838,  Ampliación Aviación Civil, Venustiano Carranza",6221,1,1,2,2,5.0, Calz. Ignacio Zaragoza 838, Ampliación Aviación Civil,Venustiano Carranza
+39900," Coahuila,  Roma Norte, Cuauhtémoc",10611,1,1,1,1,1.0, Coahuila, Roma Norte,Cuauhtémoc
+69000," Lamartine 128,  Polanco, Miguel Hidalgo",25032,4,2,3,3,1.0, Lamartine 128, Polanco,Miguel Hidalgo
+60000," Séneca ,  Polanco, Miguel Hidalgo",18531,185,2,1,1,3.0, Séneca , Polanco,Miguel Hidalgo
+38000," Av. Tecamachalco,  Reforma Social, Miguel Hidalgo",11012,110,1,2,2,1.0, Av. Tecamachalco, Reforma Social,Miguel Hidalgo
+75000," Paseo de los Laureles ,  Bosques de las Lomas, Cuajimalpa de Morelos",31033,310,3,3,3,3.0, Paseo de los Laureles , Bosques de las Lomas,Cuajimalpa de Morelos
+24000," Avenida Revolución 1030,  San José Insurgentes, Benito Juárez",7022,2,2,2,2,1.0, Avenida Revolución 1030, San José Insurgentes,Benito Juárez
+90000," Allure Puerto Cancun,  Punta Cancun, Benito Juárez",23732,3,2,3,3,1.0, Allure Puerto Cancun, Punta Cancun,Benito Juárez
+32000000," Lord Byron,  Polanco, Miguel Hidalgo",30023,3,3,2,2,1.0, Lord Byron, Polanco,Miguel Hidalgo
+12999," Narvarte Poniente,  Narvarte Poniente, Benito Juárez",3711,37,1,1,1,1.0, Narvarte Poniente, Narvarte Poniente,Benito Juárez
+19500," Av. Ricardo Flores Magón 500,  Buenavista, Cuauhtémoc",6121,61,2,1,1,2.0, Av. Ricardo Flores Magón 500, Buenavista,Cuauhtémoc
+31500," Departamento en Renta Amueblado. en Be Grand Reforma,  Tabacalera, Cuauhtémoc",7811,78,2,1,1,1.0, Departamento en Renta Amueblado. en Be Grand Reforma, Tabacalera,Cuauhtémoc
+16000," PLUTARCO ELIAS CALLES,  Ermita, Benito Juárez",8021,80,2,1,1,2.0, PLUTARCO ELIAS CALLES, Ermita,Benito Juárez
+44999," RIO ELBA ,  Cuauhtémoc, Cuauhtémoc",11012,110,2,2,2,1.0, RIO ELBA , Cuauhtémoc,Cuauhtémoc
+190005," Saratoga 418,  Portales Norte, Benito Juárez",15021,1,1,2,2,8.0, Saratoga 418, Portales Norte,Benito Juárez
+16500," Cefiro,  Pedregal de Carrasco, Coyoacán",6721,67,2,1,1,2.0, Cefiro, Pedregal de Carrasco,Coyoacán
+17000," Abelardo Carrillo y Gariel #302,  Villa de Cortes, Benito Juárez",8832,88,2,2,2,3.0, Abelardo Carrillo y Gariel #302, Villa de Cortes,Benito Juárez
+4950000," Av. Del Parque ,  Nápoles, Benito Juárez",8622,86,2,2,2,2.0, Av. Del Parque , Nápoles,Benito Juárez
+35000," cervantes savedra,  Granada, Miguel Hidalgo",12522,125,2,2,2,2.0, cervantes savedra, Granada,Miguel Hidalgo
+64500," Arquímedes  13,  Polanco, Miguel Hidalgo",20032,3,2,3,3,8.0, Arquímedes  13, Polanco,Miguel Hidalgo
+28500," Avenida Popocateptl 415,  Santa Cruz Atoyac, Benito Juárez",8232,2,2,3,3,5.0, Avenida Popocateptl 415, Santa Cruz Atoyac,Benito Juárez
+33000," Anillo Periferico 3580 San Jeronimo Aculco ,  Del Valle Centro, Benito Juárez",10022,100,2,2,2,2.0, Anillo Periferico 3580 San Jeronimo Aculco , Del Valle Centro,Benito Juárez
+330005," Lago Neuchatel,  Ampliación Granada, Miguel Hidalgo",7522,2,2,2,2,10.0, Lago Neuchatel, Ampliación Granada,Miguel Hidalgo
+80000," Paseo de las Palmas  ,  Lomas de Chapultepec, Miguel Hidalgo",32033,2,3,3,3,1.0, Paseo de las Palmas  , Lomas de Chapultepec,Miguel Hidalgo
+14500," Av,artega y Salazar 770,  Contadero, Cuajimalpa de Morelos",4111,41,1,1,1,1.0," Av,artega y Salazar 770", Contadero,Cuajimalpa de Morelos
+26500," Avenida Revolucion 1336,  Revolución IMSS, Gustavo A. Madero",10522,105,2,2,2,2.0, Avenida Revolucion 1336, Revolución IMSS,Gustavo A. Madero
+60000," HOMERO,  Polanco, Miguel Hidalgo",29032,290,2,2,2,3.0, HOMERO, Polanco,Miguel Hidalgo
+65000," Camino santa teresa 1064,  Jardines en la Montaña, Tlalpan",26534,3,4,3,3,1.0, Camino santa teresa 1064, Jardines en la Montaña,Tlalpan
+70000," Arquímides,  Polanco, Miguel Hidalgo",30033,3,3,3,3,1.0, Arquímides, Polanco,Miguel Hidalgo
+35500," Ensenada 63,  Hipódromo Condesa, Cuauhtémoc",10421,104,2,1,1,2.0, Ensenada 63, Hipódromo Condesa,Cuauhtémoc
+62000," Carretera México-Toluca ,  Bosques de las Lomas, Cuajimalpa de Morelos",23733,4,3,3,3,1.0, Carretera México-Toluca , Bosques de las Lomas,Cuajimalpa de Morelos
+56000," Heráclito,  Polanco, Miguel Hidalgo",25432,2,2,3,3,41.0, Heráclito, Polanco,Miguel Hidalgo
+35000," Departamento en Renta Totalmente Amueblado y Equipado,  Polanco, Miguel Hidalgo",10021,100,2,1,1,2.0, Departamento en Renta Totalmente Amueblado y Equipado, Polanco,Miguel Hidalgo
+32000," Cholula,  Condesa, Cuauhtémoc",10011,1,1,1,1,1.0, Cholula, Condesa,Cuauhtémoc
+15000," Yucalpetén ,  Lomas de Padierna, Tlalpan",9021,90,2,1,1,2.0, Yucalpetén , Lomas de Padierna,Tlalpan
+27999," Portales ,  Portales Norte, Benito Juárez",8621,86,1,1,1,2.0, Portales , Portales Norte,Benito Juárez
+27000," Blvd. Adolfo Ruiz Cortinez 5550 - Torre Olivo,  Pedregal de Carrasco, Coyoacán",11322,3,2,2,2,4.0, Blvd. Adolfo Ruiz Cortinez 5550 - Torre Olivo, Pedregal de Carrasco,Coyoacán
+36000," Sinaloa,  Roma Norte, Cuauhtémoc",12522,2,2,2,2,3.0, Sinaloa, Roma Norte,Cuauhtémoc
+10600," Carretera México-Toluca 5623,  Cuajimalpa, Cuajimalpa de Morelos",4011,40,1,1,1,1.0, Carretera México-Toluca 5623, Cuajimalpa,Cuajimalpa de Morelos
+27000," Queretaro 51,  Roma Norte, Cuauhtémoc",6811,68,1,1,1,1.0, Queretaro 51, Roma Norte,Cuauhtémoc
+7000000," AV EXTREMADURA,  Insurgentes Mixcoac, Benito Juárez",18022,2,2,2,2,1.0, AV EXTREMADURA, Insurgentes Mixcoac,Benito Juárez
+22000," Via Santa Fe,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",9022,2,2,2,2,10.0, Via Santa Fe, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+5000," Tahmek 61,  Cuchilla de Padierna, Tlalpan",5011,50,1,1,1,1.0, Tahmek 61, Cuchilla de Padierna,Tlalpan
+20000," EUGENIA,  Vertiz Narvarte, Benito Juárez",9632,96,2,2,2,3.0, EUGENIA, Vertiz Narvarte,Benito Juárez
+10750," Cda de Guillermo Prieto 34,  Cuajimalpa, Cuajimalpa de Morelos",6722,67,2,2,2,2.0, Cda de Guillermo Prieto 34, Cuajimalpa,Cuajimalpa de Morelos
+56000," Heraclio  331,  Polanco, Miguel Hidalgo",25432,254,2,2,2,3.0, Heraclio  331, Polanco,Miguel Hidalgo
+33000," Michoacan,  Hipódromo Condesa, Cuauhtémoc",10521,2,1,2,2,13.0, Michoacan, Hipódromo Condesa,Cuauhtémoc
+45000," Fernando Alencastre 115,  Lomas - Virreyes, Miguel Hidalgo",20022,2,2,2,2,1.0, Fernando Alencastre 115, Lomas - Virreyes,Miguel Hidalgo
+18000," Avenida la luna,  Cancún, Benito Juárez",11022,2,2,2,2,4.0, Avenida la luna, Cancún,Benito Juárez
+25000," Av. Santa Fe No. 482,  Cruz Manca, Cuajimalpa de Morelos",9012,1,2,1,1,8.0, Av. Santa Fe No. 482, Cruz Manca,Cuajimalpa de Morelos
+58000," AV VASCO DE QUIROGA 3833,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",34933,3,3,3,3,1.0, AV VASCO DE QUIROGA 3833, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+33000," Rio Rhin,  Cuauhtémoc, Cuauhtémoc",10722,3,2,2,2,8.0, Rio Rhin, Cuauhtémoc,Cuauhtémoc
+33000," Lago Neuchatel 45,  Ampliación Granada, Miguel Hidalgo",9822,98,2,2,2,2.0, Lago Neuchatel 45, Ampliación Granada,Miguel Hidalgo
+27000," SIERRA MINUIRA ,  Lomas de Chapultepec, Miguel Hidalgo",12022,120,2,2,2,2.0, SIERRA MINUIRA , Lomas de Chapultepec,Miguel Hidalgo
+75000," Ámsterdam ,  Hipódromo Condesa, Cuauhtémoc",18022,2,2,2,2,1.0, Ámsterdam , Hipódromo Condesa,Cuauhtémoc
+35000," Amores 001,  Del Valle Norte, Benito Juárez",15333,153,2,3,3,3.0, Amores 001, Del Valle Norte,Benito Juárez
+33000," Félix Parra ,  San José Insurgentes, Benito Juárez",13022,2,2,2,2,10.0, Félix Parra , San José Insurgentes,Benito Juárez
+14000," Antonio Noemi 25,  Lomas de Memetla, Cuajimalpa de Morelos",5811,58,1,1,1,1.0, Antonio Noemi 25, Lomas de Memetla,Cuajimalpa de Morelos
+25000," Paseo de tamarindos,  Bosque de las Lomas, Miguel Hidalgo",12022,120,2,2,2,2.0, Paseo de tamarindos, Bosque de las Lomas,Miguel Hidalgo
+45000," Puebla 214, Roma Nte., Cuauhtémoc, 06700 Ciudad de México, CDMX,  Roma Norte, Cuauhtémoc",9022,90,2,2,2,2.0, Puebla 214,Roma Nte.,Cuauhtémoc
+30000," Rio Rhin 59,  Cuauhtémoc, Cuauhtémoc",7021,2,1,2,2,2.0, Rio Rhin 59, Cuauhtémoc,Cuauhtémoc
+75000," Prolongaciòn Bosques de Reforma  1440 ,  Bosque de las Lomas, Miguel Hidalgo",42223,3,3,2,2,1.0, Prolongaciòn Bosques de Reforma  1440 , Bosque de las Lomas,Miguel Hidalgo
+36000," Lago Alberto 300,  Anáhuac I Sección, Miguel Hidalgo",9722,2,2,2,2,5.0, Lago Alberto 300, Anáhuac I Sección,Miguel Hidalgo
+39500," Solón,  Polanco, Miguel Hidalgo",16031,3,1,3,3,16.0, Solón, Polanco,Miguel Hidalgo
+6000," Campos Elíseos 200,  Polanco, Miguel Hidalgo",25423,2,3,2,2,1.0, Campos Elíseos 200, Polanco,Miguel Hidalgo
+35000," José Barros Sierra 245,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",15532,155,2,2,2,3.0, José Barros Sierra 245, Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+40000," amsterdam,  Hipódromo, Cuauhtémoc",13221,2,1,2,2,5.0, amsterdam, Hipódromo,Cuauhtémoc
+12499," JARDIN BALBUENA ,  Venustiano Carranza, Venustiano Carranza",7031,70,1,1,1,3.0, JARDIN BALBUENA , Venustiano Carranza,Venustiano Carranza
+40000," Ejército nacional  453,  Anáhuac I Sección, Miguel Hidalgo",11512,115,2,2,2,1.0, Ejército nacional  453, Anáhuac I Sección,Miguel Hidalgo
+18000," Pitágoras ,  Del Valle Centro, Benito Juárez",9122,91,2,2,2,2.0, Pitágoras , Del Valle Centro,Benito Juárez
+80000," Calle Arquímedes 100,  Polanco, Miguel Hidalgo",24033,240,3,3,3,3.0, Calle Arquímedes 100, Polanco,Miguel Hidalgo
+16000," ISABEL LA CATOLICA 964,  Postal, Benito Juárez",3822,2,2,2,2,3.0, ISABEL LA CATOLICA 964, Postal,Benito Juárez
+22000," General Jose Moran 110,  San Miguel Chapultepec, Miguel Hidalgo",9021,90,2,1,1,2.0, General Jose Moran 110, San Miguel Chapultepec,Miguel Hidalgo
+12000," Juarez,  Clavería, Azcapotzalco",4621,46,1,1,1,2.0, Juarez, Clavería,Azcapotzalco
+3350000," bahia de san hipolito 43,  Anáhuac I Sección, Miguel Hidalgo",7021,1,1,2,2,10.0, bahia de san hipolito 43, Anáhuac I Sección,Miguel Hidalgo
+21000," LAGO ZURICH 243,  Ampliación Granada, Miguel Hidalgo",5711,57,1,1,1,1.0, LAGO ZURICH 243, Ampliación Granada,Miguel Hidalgo
+6500000," Secretaria de Marina 516,  Lomas del Chamizal, Cuajimalpa de Morelos",17032,170,3,2,2,3.0, Secretaria de Marina 516, Lomas del Chamizal,Cuajimalpa de Morelos
+17000," LAGO CUITZEO,  Anáhuac I Sección, Miguel Hidalgo",9032,90,2,2,2,3.0, LAGO CUITZEO, Anáhuac I Sección,Miguel Hidalgo
+4400000," Matias Romero -,  Del Valle Centro, Benito Juárez",12631,2,1,3,3,33.0, Matias Romero -, Del Valle Centro,Benito Juárez
+11500," Cerrada plan de San Luis 4,  La Purísima TicomAn, Gustavo A. Madero",7521,75,1,1,1,2.0, Cerrada plan de San Luis 4, La Purísima TicomAn,Gustavo A. Madero
+60000," Ámsterdam,  Hipódromo Condesa, Cuauhtémoc",20021,2,1,2,2,1.0, Ámsterdam, Hipódromo Condesa,Cuauhtémoc
+39500," Lago Zurich 245,  Ampliación Granada, Miguel Hidalgo",11522,2,2,2,2,12.0, Lago Zurich 245, Ampliación Granada,Miguel Hidalgo
+25000," Lago Alberto 320,  Granada, Miguel Hidalgo",5611,56,1,1,1,1.0, Lago Alberto 320, Granada,Miguel Hidalgo
+14200," Odesa,  Portales Sur, Benito Juárez",5521,1,1,2,2,20.0, Odesa, Portales Sur,Benito Juárez
+37000," Departamento en Renta. Roma Norte,  Roma Norte, Cuauhtémoc",17032,170,2,2,2,3.0, Departamento en Renta. Roma Norte, Roma Norte,Cuauhtémoc
+23000," Río Guadalquivir,  Cuauhtémoc, Cuauhtémoc",9021,90,2,1,1,2.0, Río Guadalquivir, Cuauhtémoc,Cuauhtémoc
+28000,"  Avenida Popocatepetl ,  Portales Norte, Benito Juárez",8622,86,2,2,2,2.0,  Avenida Popocatepetl , Portales Norte,Benito Juárez
+60000," av rio churubusco 601,  Xoco, Benito Juárez",19032,3,2,3,3,1.0, av rio churubusco 601, Xoco,Benito Juárez
+25000," ALPES,  Lomas de Chapultepec, Miguel Hidalgo",8011,80,1,1,1,1.0, ALPES, Lomas de Chapultepec,Miguel Hidalgo
+40000," Tuxpan,  Roma, Cuauhtémoc",13031,2,1,3,3,30.0, Tuxpan, Roma,Cuauhtémoc
+22000," Av. Popocatépetl 488,  Xoco, Benito Juárez",9021,90,2,1,1,2.0, Av. Popocatépetl 488, Xoco,Benito Juárez
+65000," Horacio esquina ferrocarril de Cuernavaca ,  Polanco, Miguel Hidalgo",14521,2,1,2,2,1.0, Horacio esquina ferrocarril de Cuernavaca , Polanco,Miguel Hidalgo
+25500," Lago alberto 442,  Anáhuac II Sección, Miguel Hidalgo",5511,55,1,1,1,1.0, Lago alberto 442, Anáhuac II Sección,Miguel Hidalgo
+46000," Praga, Juarez, Cuauhtémoc,  Cuauhtémoc, Cuauhtémoc",25021,250,2,1,1,2.0, Praga,Juarez,Cuauhtémoc
+21000," RIO GUADALQUIVIR,  Cuauhtémoc, Cuauhtémoc",7521,75,2,1,1,2.0, RIO GUADALQUIVIR, Cuauhtémoc,Cuauhtémoc
+6000," Rubén Darío,  Polanco, Miguel Hidalgo",55024,550,2,4,4,2.0, Rubén Darío, Polanco,Miguel Hidalgo
+13500," Carretera México Toluca 5095,  El Yaqui, Cuajimalpa de Morelos",4511,1,1,1,1,, Carretera México Toluca 5095, El Yaqui,Cuajimalpa de Morelos
+32000," Tlaxcala,  Hipódromo, Cuauhtémoc",10111,1,1,1,1,12.0, Tlaxcala, Hipódromo,Cuauhtémoc
+19600," Ejercito Nacional 223 Anzures,  Anzures, Miguel Hidalgo",8511,85,1,1,1,1.0, Ejercito Nacional 223 Anzures, Anzures,Miguel Hidalgo
+16000," LEONARDO DA VINCI 216,  Mixcoac, Benito Juárez",6722,67,2,2,2,2.0, LEONARDO DA VINCI 216, Mixcoac,Benito Juárez
+35000," Be Grand Alto Polanco Torre 100,  Anáhuac I Sección, Miguel Hidalgo",9122,91,2,2,2,2.0, Be Grand Alto Polanco Torre 100, Anáhuac I Sección,Miguel Hidalgo
+55000," Tonalá 47,  Roma Norte, Cuauhtémoc",12022,1,2,2,2,8.0, Tonalá 47, Roma Norte,Cuauhtémoc
+21000," Pacifico 195,  Pueblo de los Reyes, Coyoacán",10032,3,2,3,3,30.0, Pacifico 195, Pueblo de los Reyes,Coyoacán
+39500," Sinaloa,  Roma Norte, Cuauhtémoc",17022,2,2,2,2,1.0, Sinaloa, Roma Norte,Cuauhtémoc
+100000," Calle Vista Hermosa,  Residencial Vista Hermosa, Cuajimalpa de Morelos",38634,3,4,3,3,1.0, Calle Vista Hermosa, Residencial Vista Hermosa,Cuajimalpa de Morelos
+30000," Campeche 175,  Roma Sur, Cuauhtémoc",9722,97,2,2,2,2.0, Campeche 175, Roma Sur,Cuauhtémoc
+23000," ADOLFO PRIETO 1037,  Del Valle Centro, Benito Juárez",14022,140,3,2,2,2.0, ADOLFO PRIETO 1037, Del Valle Centro,Benito Juárez
+11500," Calle Anáhuac 51,  El Mirador, Coyoacán",6421,1,1,2,2,28.0, Calle Anáhuac 51, El Mirador,Coyoacán
+8500," C. 4 113,  Agrícola Pantitlan, Iztacalco",6421,64,1,1,1,2.0, C. 4 113, Agrícola Pantitlan,Iztacalco
+7370," Alejandro Dumas,  Polanco, Miguel Hidalgo",38033,3,3,3,3,2.0, Alejandro Dumas, Polanco,Miguel Hidalgo
+14000," Carretera México-Toluca 5095,  Cuajimalpa, Cuajimalpa de Morelos",4611,1,1,1,1,3.0, Carretera México-Toluca 5095, Cuajimalpa,Cuajimalpa de Morelos
+34000," Calle Lago Zurich 200,  Ampliación Granada, Miguel Hidalgo",10022,100,2,2,2,2.0, Calle Lago Zurich 200, Ampliación Granada,Miguel Hidalgo
+29700," Av. Río Churubusco 601  /  Av. Universidad  /  Cdmx,  Xoco, Benito Juárez",8012,80,2,2,2,1.0, Av. Río Churubusco 601  /  Av. Universidad  /  Cdmx, Xoco,Benito Juárez
+40000," Río Pánuco 147,  Cuauhtémoc, Cuauhtémoc",13521,135,2,1,1,2.0, Río Pánuco 147, Cuauhtémoc,Cuauhtémoc
+20000," Avenida División del Norte,  Letrán Valle, Benito Juárez",8521,85,2,1,1,2.0, Avenida División del Norte, Letrán Valle,Benito Juárez
+17850000," Blvd. Reforma,  El Yaqui, Cuajimalpa de Morelos",34043,4,3,4,4,1.0, Blvd. Reforma, El Yaqui,Cuajimalpa de Morelos
+15500," Manzanastitla ,  Manzanastitla, Cuajimalpa de Morelos",6511,65,1,1,1,1.0, Manzanastitla , Manzanastitla,Cuajimalpa de Morelos
+16500," Granados 100,  San José de los Cedros, Cuajimalpa de Morelos",9832,98,2,2,2,3.0, Granados 100, San José de los Cedros,Cuajimalpa de Morelos
+25500," calle lago alberto,  Anáhuac I Sección, Miguel Hidalgo",5511,1,1,1,1,4.0, calle lago alberto, Anáhuac I Sección,Miguel Hidalgo
+23000," Noche de Paz 14 ,  Granjas Navidad, Cuajimalpa de Morelos",14022,140,3,2,2,2.0, Noche de Paz 14 , Granjas Navidad,Cuajimalpa de Morelos
+25500," Miguel Hidalgo ,  Anáhuac I Sección, Miguel Hidalgo",5512,55,1,2,2,1.0, Miguel Hidalgo , Anáhuac I Sección,Miguel Hidalgo
+22000," STAMPA,  Contadero, Cuajimalpa de Morelos",9622,96,2,2,2,2.0, STAMPA, Contadero,Cuajimalpa de Morelos
+56000," Heráclito 400,  Polanco, Miguel Hidalgo",25432,254,2,2,2,3.0, Heráclito 400, Polanco,Miguel Hidalgo
+60000," Av Santa Fe ,  Santa Fe Cuajimalpa, Cuajimalpa de Morelos",23833,3,3,3,3,1.0, Av Santa Fe , Santa Fe Cuajimalpa,Cuajimalpa de Morelos
+20000," PRESA DE LAS PILAS 3,  Irrigación, Miguel Hidalgo",8031,80,1,1,1,3.0, PRESA DE LAS PILAS 3, Irrigación,Miguel Hidalgo
+2400000," Alcanfores ,  San José de los Cedros, Cuajimalpa de Morelos",8022,2,2,2,2,30.0, Alcanfores , San José de los Cedros,Cuajimalpa de Morelos
+45000," Lago Zurich 168,  Granada, Miguel Hidalgo",15432,154,1,2,2,3.0, Lago Zurich 168, Granada,Miguel Hidalgo
+25000," RIO NASAS 31,  Cuauhtémoc, Cuauhtémoc",8022,80,2,2,2,2.0, RIO NASAS 31, Cuauhtémoc,Cuauhtémoc
+8950000," secretaria de marina                     ,  Bosques de las Lomas, Cuajimalpa de Morelos",25633,3,3,3,3,1.0, secretaria de marina                     , Bosques de las Lomas,Cuajimalpa de Morelos
+13600," Mar Adriático 100,  Popotla, Miguel Hidalgo",6521,65,1,1,1,2.0, Mar Adriático 100, Popotla,Miguel Hidalgo
+45000," Paseo de los Tamarindos 200,  Club de Golf Bosques de Santa Fe, Cuajimalpa de Morelos",32533,325,3,3,3,3.0, Paseo de los Tamarindos 200, Club de Golf Bosques de Santa Fe,Cuajimalpa de Morelos
+25000," Crepúsculo 55,  Insurgentes Cuicuilco, Coyoacán",7321,2,1,2,2,5.0, Crepúsculo 55, Insurgentes Cuicuilco,Coyoacán
